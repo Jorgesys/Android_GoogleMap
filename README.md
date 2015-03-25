@@ -14,3 +14,6 @@ Add a valid API KEY inside your AndroidManifest.xml
   <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyAfG_R8Yb2-ao_L09dtIFZIugoQ6ShwBms" />
+			
+			
+any question?
